@@ -9,4 +9,4 @@ This is Leo, a high school student from Chengdu, PRC.
 - 😄 Pronouns: NERD
 - ⚡ Fun fact: Nothing()
 
-- :computer:: Planning to try OI.
+- :computer: Planning to try OI.

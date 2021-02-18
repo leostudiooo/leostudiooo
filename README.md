@@ -10,4 +10,4 @@ This is Leo, a high school student from `Chengdu, PRC.`
 
 - :computer: Planning to try OI.
 
-[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leostudiooo)](https://github.com/anuraghazra/github-readme-stats)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leostudiooo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

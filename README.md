@@ -9,3 +9,5 @@ This is Leo, a high school student from `Chengdu, PRC.`
 - ⚡ Fun fact: <kb>Alt</kb>+<kb>F4</kb>
 
 - :computer: Planning to try OI.
+
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leostudiooo)](https://github.com/anuraghazra/github-readme-stats)

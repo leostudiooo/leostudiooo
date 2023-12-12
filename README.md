@@ -2,7 +2,7 @@
 
 This is Leo, a college student from `Chengdu, PRC`, now studying at SEU.
 
-- 🔭 Working on Biomedical Engineering.
+- 🔭 Majoring in Biomedical Engineering, now a freshman at campus.
 - 🌱 Learning *Python, C++, JavaScript, HTML/CSS*.
 - 💬 Ask me anything.
 - 📫 How to reach me: E-mail/QQ/bilibili/Instagram/twitter/etc.

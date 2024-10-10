@@ -2,7 +2,7 @@
 
 This is Leo, a college student studying at SEU.
 
-- 🔭 Majoring in Bioengineering, now a freshman at campus.
+- 🔭 Majoring in Bioengineering, now a sophomore at campus.
 - 🌱 Learning *Python, C++, JavaScript, HTML/CSS*.
 - 💬 Ask me anything.
 

@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-This is Leo, a college student studying at SEU.
+This is Leo, a 2nd year undergraduate at Southeast University.
 
-- 🔭 Majoring in Bioengineering, now a sophomore at campus.
+- 🔭 Majoring in bioengineering/bioinformatics.
 - 🌱 Learning Python, C++ and Web Tech. Maybe some day will explore Computer Graphics.
 - 💬 Wants to debug the world.
 

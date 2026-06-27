@@ -7,3 +7,5 @@ This is Leo, a 2nd year undergraduate at Southeast University.
 - 💬 Let's debug the world.
 
 [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leostudiooo&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Roast](https://githubroast.icu/api/card/leostudiooo)](https://githubroast.icu/u/leostudiooo)
